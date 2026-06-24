@@ -1,0 +1,6 @@
+{
+  "name": "Telugu Conjunct Consonants Game",
+  "description": "An interactive Telugu learning game for Class 5 students to practice and master Dwitvaksharamulu (conjunct consonants) and words with Ottulu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
